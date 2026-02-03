@@ -1,5 +1,5 @@
 numpy
 colour-science
-pillow
+Pillow
+pillow-heif
 pypng
-imageio
