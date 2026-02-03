@@ -1,5 +1,0 @@
-numpy
-colour-science
-Pillow
-pillow-heif
-pypng
